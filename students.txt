@@ -1,4 +1,4 @@
-fahrettin Smith 20 1
+Smith  Smith 20 1
 onur Doe 21 2
 musa Doe 22 4
 merve Smith 23 2
