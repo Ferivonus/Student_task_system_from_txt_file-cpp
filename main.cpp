@@ -23,7 +23,7 @@ int main(){
     // create a new students.txt file and write the 6 students data to it    
     ofstream students_file;
     students_file.open("students.txt");
-    students_file << "fahrettin Smith 20 1" << endl;
+    students_file << "Smith  Smith 20 1" << endl;
     students_file << "onur Doe 21 2" << endl;
     students_file << "musa Doe 22 4" << endl;
     students_file << "merve Smith 23 2" << endl;
